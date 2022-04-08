@@ -46,7 +46,7 @@ export default {
         const baseURL = `https://rakhiboxes.com'
         }`;
         if (referrerHost) {
-          return `${baseURL}&utm_referrer=${referrerHost}`;
+          return `https://rakhiboxes.com`;
         }
         return baseURL;
       } catch (e) {
