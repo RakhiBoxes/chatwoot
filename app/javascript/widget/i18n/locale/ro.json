@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Descărcare",
-      "UPLOADING": "Încărcare..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Trimite"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -26,28 +26,28 @@
   "CONTINUE_CONVERSATION": "Continue conversation",
   "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Vezi mesajele noi",
-    "CLOSE_MESSAGES_BUTTON": "Închide",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
     "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Oferit de Chatwoot",
-  "EMAIL_PLACEHOLDER": "Te rugăm să introduci adresa de e-mail",
-  "CHAT_PLACEHOLDER": "Scrie mesajul tău",
-  "TODAY": "Astăzi",
-  "YESTERDAY": "Ieri",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
         "LABEL": "Full Name",
-        "PLACEHOLDER": "Te rugăm să introduci un nume valid",
+        "PLACEHOLDER": "Please enter your full name",
         "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Adresa Email",
+        "LABEL": "Email Address",
         "PLACEHOLDER": "Please enter your email address",
         "ERROR": "Invalid email address"
       },
@@ -59,20 +59,20 @@
     },
     "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Fisierul depaseste limita de {MAXIMUM_FILE_UPLOAD_SIZE} atasamente",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
       "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Evaluează conversația ta",
+    "TITLE": "Rate your conversation",
     "SUBMITTED_TITLE": "Thank you for submitting the rating",
-    "PLACEHOLDER": "Spune-ne mai mult..."
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
     "BUTTON_TEXT": "Request a conversation transcript",
-    "SEND_EMAIL_SUCCESS": "Transscrisul de chat a fost trimis cu succes",
-    "SEND_EMAIL_ERROR": "A apărut o eroare, încercați din nou"
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

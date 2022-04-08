@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Κατέβασμα",
-      "UPLOADING": "Ανέβασμα..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Καταχώρηση"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Επαναποστολή μηνύματος",
-      "ERROR_MESSAGE": "Αδυναμία αποστολής! Προσπαθήστε ξανά"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Είμαστε online",
-    "OFFLINE": "Προς το παρόν, είμαστε εκτός"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Τυπικά έχετε απάντηση σε μερικά λεπτά",
-    "IN_A_FEW_HOURS": "Τυπικά έχετε απάντηση σε μερικές σε μερικές ώρες",
-    "IN_A_DAY": "Τυπικά έχετε απάντηση σε μία ημέρα"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Έναρξη Συνομιλίας",
-  "END_CONVERSATION": "Τέλος Συνομιλίας",
-  "CONTINUE_CONVERSATION": "Συνέχιση συνομιλίας",
-  "START_NEW_CONVERSATION": "Έναρξη νέας συνομιλίας",
+  "START_CONVERSATION": "Start Conversation",
+  "END_CONVERSATION": "End Conversation",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Δείτε τα νέα μηνύματα",
-    "CLOSE_MESSAGES_BUTTON": "Κλείσιμο",
-    "COMPANY_FROM": "από",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Συνομιλήστε μαζί μας"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "με την δύναμη του Chatwoot",
-  "EMAIL_PLACEHOLDER": "Παρακαλώ εισάγετε το email σας",
-  "CHAT_PLACEHOLDER": "Πληκτρολογήστε το μήνυμά σας",
-  "TODAY": "Σήμερα",
-  "YESTERDAY": "Χτες",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Πλήρες Όνομα",
-        "PLACEHOLDER": "Παρακαλώ συμπληρώστε το πλήρες όνομα σας",
-        "ERROR": "Απαιτείται πλήρες όνομα"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Διεύθυνση Email",
-        "PLACEHOLDER": "Παρακαλούμε εισάγετε τη διεύθυνση email σας",
-        "ERROR": "Μη έγκυρη διεύθυνση email"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Μήνυμα",
-        "PLACEHOLDER": "Παρακαλώ εισάγετε το μήνυμά σας",
-        "ERROR": "Πολύ σύντομο μήνυμα"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Παρακαλώ δώστε το όνομα και το email σας πριν ξεκινήσετε την συνομιλία"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Το αρχείο υπερβαίνει το όριο συνημμένου {MAXIMUM_FILE_UPLOAD_SIZE}",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Μη έγκυρο πεδίο"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Αξιολογήστε τη συνομιλία σας",
-    "SUBMITTED_TITLE": "Ευχαριστούμε για την υποβολή της αξιολόγησης",
-    "PLACEHOLDER": "Πείτε μας περισσότερα..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Αίτηση μεταγραφής συνομιλίας",
-    "SEND_EMAIL_SUCCESS": "Η μεταγραφή της συνομιλίας έχει αποσταλεί επιτυχώς",
-    "SEND_EMAIL_ERROR": "Υπήρξε ένα σφάλμα, παρακαλώ προσπαθήστε ξανά"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

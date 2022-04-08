@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Herunterladen",
-      "UPLOADING": "Hochladen..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Abschicken"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Nachricht erneut senden",
-      "ERROR_MESSAGE": "Senden nicht möglich, versuchen Sie es noch einmal"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Wir sind online",
-    "OFFLINE": "Wir sind momentan abwesend"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Wir antworten üblicherweise innerhalb weniger Minuten",
-    "IN_A_FEW_HOURS": "Wir antworten üblicherweise innerhalb weniger Stunden",
-    "IN_A_DAY": "Wir antworten üblicherweise innerhalb eines Tages"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Unterhaltung beginnen",
-  "END_CONVERSATION": "Konversation beenden",
-  "CONTINUE_CONVERSATION": "Konversation fortsetzen",
-  "START_NEW_CONVERSATION": "Neue Unterhaltung starten",
+  "START_CONVERSATION": "Start Conversation",
+  "END_CONVERSATION": "End Conversation",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Neue Nachrichten anzeigen",
-    "CLOSE_MESSAGES_BUTTON": "Schließen",
-    "COMPANY_FROM": "von",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Chatten Sie mit uns"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Unterstützt von Chatwoot",
-  "EMAIL_PLACEHOLDER": "Bitte geben Sie Ihre E-Mail-Adresse ein",
-  "CHAT_PLACEHOLDER": "Schreiben Sie Ihre Nachricht",
-  "TODAY": "Heute",
-  "YESTERDAY": "Gestern",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Vollständiger Name",
-        "PLACEHOLDER": "Bitte geben Sie Ihren vollständigen Namen ein",
-        "ERROR": "Vollständiger Name ist erforderlich"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "E-Mail-Adresse",
-        "PLACEHOLDER": "Bitte geben Sie ihre E-Mail-Adresse ein",
-        "ERROR": "Ungültige E-Mail-Adresse"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Nachricht",
-        "PLACEHOLDER": "Bitte geben Sie Ihre Nachricht ein",
-        "ERROR": "Nachricht ist zu kurz"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Bitte geben Sie Ihren Namen und Ihre E-Mail-Adresse an, bevor Sie die Konversation beginnen"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Die Datei überschreitet das Anhangslimit von {MAXIMUM_FILE_UPLOAD_SIZE}",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Ungültiges Feld"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Bewerten Sie Ihre Konversation",
-    "SUBMITTED_TITLE": "Danke, dass Sie die Bewertung eingereicht haben",
-    "PLACEHOLDER": "Erzählen Sie uns mehr..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Chat-Protokoll anfordern",
-    "SEND_EMAIL_SUCCESS": "Das Chat-Protokoll wurde erfolgreich gesendet",
-    "SEND_EMAIL_ERROR": "Es ist ein Fehler aufgetreten, bitte versuchen Sie es erneut"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

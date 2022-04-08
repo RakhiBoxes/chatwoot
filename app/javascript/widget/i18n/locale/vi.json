@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Tải xuống",
-      "UPLOADING": "Đang tải lên..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Gửi"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Gửi lại tin nhắn",
-      "ERROR_MESSAGE": "Không thể gửi, xin thử lại"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Chúng tôi đang trực tuyến",
-    "OFFLINE": "Hiện tại chúng tôi đang ngoại tuyến"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Thường trả lời sau vài phút",
-    "IN_A_FEW_HOURS": "Thường trả lời sau vài giờ",
-    "IN_A_DAY": "Thường trả lời trong một ngày"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Bắt đầu một cuộc trò chuyện",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
-  "CONTINUE_CONVERSATION": "Tiếp tục cuộc trò chuyện",
-  "START_NEW_CONVERSATION": "Bắt đầu cuộc trò chuyện mới",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Xem tin nhắn mới",
-    "CLOSE_MESSAGES_BUTTON": "Đóng",
-    "COMPANY_FROM": "từ",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Trò chuyện với chúng tôi"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Cung cấp bởi Chatwoot",
-  "EMAIL_PLACEHOLDER": "Vui lòng nhập email",
-  "CHAT_PLACEHOLDER": "Gõ tin nhắn của bạn",
-  "TODAY": "Hôm nay",
-  "YESTERDAY": "Hôm qua",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Tên đầy đủ",
-        "PLACEHOLDER": "Vui lòng nhập tên đầy đủ của bạn",
-        "ERROR": "Tên đầy đủ là bắt buộc"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Email",
-        "PLACEHOLDER": "Vui lòng nhập email",
-        "ERROR": "Email không hợp lệ"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Tin nhắn",
-        "PLACEHOLDER": "Vui lòng nhập tin nhắn",
-        "ERROR": "Tin nhắnn quá ngắn"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Vui lòng cung cấp tên và địa chỉ email của bạn trước khi bắt đầu cuộc trò chuyện"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "File vượt quá kích thước giới hạn {MAXIMUM_FILE_UPLOAD_SIZE}",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Trường không hợp lệ"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Đánh giá cuộc trò chuyện",
-    "SUBMITTED_TITLE": "Cảm ơn vì đã đánh giá",
-    "PLACEHOLDER": "Cho chúng tôi biết thêm..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Yêu cầu bản ghi cuộc trò chuyện",
-    "SEND_EMAIL_SUCCESS": "Bản ghi cuộc trò chuyện đã được gửi thành công",
-    "SEND_EMAIL_ERROR": "Đã có lỗi, vui lòng thử lại"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

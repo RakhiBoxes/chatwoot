@@ -2,10 +2,10 @@
   "COMPONENTS": {
     "FILE_BUBBLE": {
       "DOWNLOAD": "Download",
-      "UPLOADING": "Uploader..."
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Send"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,66 +13,66 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Vi er online",
-    "OFFLINE": "Vi er ikke tilgængelige i øjeblikket"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Svarer typisk på et par minutter",
-    "IN_A_FEW_HOURS": "Svarer typisk på et par timer",
-    "IN_A_DAY": "Svarer typisk på en dag"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Start Samtale",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "Start en ny samtale",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Se nye beskeder",
-    "CLOSE_MESSAGES_BUTTON": "Luk",
-    "COMPANY_FROM": "fra",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Chat med os"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Drevet af Chatwoot",
-  "EMAIL_PLACEHOLDER": "Indtast venligst din e-mail",
-  "CHAT_PLACEHOLDER": "Skriv din besked",
-  "TODAY": "I dag",
-  "YESTERDAY": "I går",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Fulde Navn",
-        "PLACEHOLDER": "Indtast venligst dit fulde navn",
-        "ERROR": "Det fulde navn er påkrævet"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "E-Mail Adresse",
-        "PLACEHOLDER": "Indtast venligst din e-mail adresse",
-        "ERROR": "Ugyldig e-mailadresse"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Besked",
-        "PLACEHOLDER": "Indtast venligst din besked",
-        "ERROR": "Beskeden er for kort"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
     "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Filen overskrider grænsen på {MAXIMUM_FILE_UPLOAD_SIZE} for vedhæftede filer",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Ugyldigt felt"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Bedøm din samtale",
-    "SUBMITTED_TITLE": "Tak for din bedømmelse",
-    "PLACEHOLDER": "Fortæl os mere..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Anmod om en samtaleudskrift",
-    "SEND_EMAIL_SUCCESS": "Chatudskriften blev sendt med succes",
-    "SEND_EMAIL_ERROR": "Der opstod en fejl. Prøv venligst igen"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

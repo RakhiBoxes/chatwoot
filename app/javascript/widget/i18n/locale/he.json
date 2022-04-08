@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "הורד",
-      "UPLOADING": "מעלה..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "שלח"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,66 +13,66 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "אנחנו אונליין",
-    "OFFLINE": "אנחנו לא זמינים כרגע"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "זמן מענה טיפוסי תוך כמה דקות",
-    "IN_A_FEW_HOURS": "מענה ממוצע תוך כמה שעות",
-    "IN_A_DAY": "מענה ממוצע לאחר יום"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "התחל שיחה",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "התחל שיחה חדשה",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "ראה הודעות חדשות",
-    "CLOSE_MESSAGES_BUTTON": "סגור",
-    "COMPANY_FROM": "מ",
-    "BOT": "בוט"
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "דבר איתנו"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "מופעל על ידי Chatwoot",
-  "EMAIL_PLACEHOLDER": "הזן בבקשה את האימייל שלך",
-  "CHAT_PLACEHOLDER": "הקלד הודעה",
-  "TODAY": "היום",
-  "YESTERDAY": "אתמול",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "שם מלא",
-        "PLACEHOLDER": "הכנס שם מלא בבקשה",
-        "ERROR": "שם מלא שדה חובה"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "כתובת מייל",
-        "PLACEHOLDER": "הכנס כתובת מייל בבקשה",
-        "ERROR": "כתובת מייל לא חוקית"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "הודעה",
-        "PLACEHOLDER": "הקלד הודעה בבקשה",
-        "ERROR": "הודעה קצרה מדי"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
     "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "קובץ חורג ממגבלת גודל מקסימלי {MAXIMUM_FILE_UPLOAD_SIZE}",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "שדה לא חוקי"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "דרג את השיחה שלך",
-    "SUBMITTED_TITLE": "תודה על שליחת הדירוג",
-    "PLACEHOLDER": "ספר לנו עוד..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "בקש תמליל שיחה",
-    "SEND_EMAIL_SUCCESS": "תמליל הצ'אט נשלח בהצלחה",
-    "SEND_EMAIL_ERROR": "היתה שגיאה, בקשה נסה שוב"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

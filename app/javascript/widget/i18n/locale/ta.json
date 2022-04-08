@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "பதிவிறக்கவும்",
-      "UPLOADING": "பதிவேறுகிறது..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "சமர்பிக்கவும்"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -27,18 +27,18 @@
   "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
     "VIEW_MESSAGES_BUTTON": "See new messages",
-    "CLOSE_MESSAGES_BUTTON": "மூடு",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
     "LABEL": "Chat with us"
   },
-  "POWERED_BY": "சாட்வுட் மூலம் இயக்கபடுகிறது",
-  "EMAIL_PLACEHOLDER": "உங்கள் ஈ-மெயில் முகவரியை பதிவிடவும்",
-  "CHAT_PLACEHOLDER": "உங்கள் செய்தியை உள்ளிடவும்",
-  "TODAY": "இன்று",
-  "YESTERDAY": "நேற்று",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
@@ -47,7 +47,7 @@
         "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "ஈ-மெயில் முகவரி",
+        "LABEL": "Email Address",
         "PLACEHOLDER": "Please enter your email address",
         "ERROR": "Invalid email address"
       },

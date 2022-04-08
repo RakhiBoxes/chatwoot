@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Скачать",
-      "UPLOADING": "Загружаем..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Отправить"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Отправить сообщение еще раз",
-      "ERROR_MESSAGE": "Не удалось отправить! Попробуйте еще раз"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Мы в сети",
-    "OFFLINE": "В данный момент мы отсутствуем"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Обычно отвечаем в течение нескольких минут",
-    "IN_A_FEW_HOURS": "Обычно отвечаем в течение нескольких часов",
-    "IN_A_DAY": "Обычно отвечаем в течение дня"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Начать диалог",
-  "END_CONVERSATION": "Завершить диалог",
-  "CONTINUE_CONVERSATION": "Продолжить беседу",
-  "START_NEW_CONVERSATION": "Начать диалог",
+  "START_CONVERSATION": "Start Conversation",
+  "END_CONVERSATION": "End Conversation",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Посмотреть новые сообщения",
-    "CLOSE_MESSAGES_BUTTON": "Закрыть",
-    "COMPANY_FROM": "от",
-    "BOT": "Бот"
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Пообщайтесь с нами"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Работает на Chatwoot",
-  "EMAIL_PLACEHOLDER": "Пожалуйста, введите ваш email",
-  "CHAT_PLACEHOLDER": "Введите сообщение",
-  "TODAY": "Сегодня",
-  "YESTERDAY": "Вчера",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Полное имя",
-        "PLACEHOLDER": "Пожалуйста, введите ваше ФИО",
-        "ERROR": "Необходимо указать имя"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Email",
-        "PLACEHOLDER": "Пожалуйста, введите ваш адрес электронной почты",
-        "ERROR": "Неправильный адрес электронной почты"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Сообщение",
-        "PLACEHOLDER": "Пожалуйста, введите ваше сообщение здесь",
-        "ERROR": "Сообщение слишком короткое"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Пожалуйста, укажите ваше имя и адрес электронной почты перед началом беседы"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Превышен размер загружаемого файла - {MAXIMUM_FILE_UPLOAD_SIZE}",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Неверное поле"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Оцените разговор",
-    "SUBMITTED_TITLE": "Спасибо за оценку",
-    "PLACEHOLDER": "Расскажите подробнее..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Запросить историю разговора",
-    "SEND_EMAIL_SUCCESS": "Субтитры чата успешно отправлены",
-    "SEND_EMAIL_ERROR": "Произошла ошибка, попробуйте еще раз"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

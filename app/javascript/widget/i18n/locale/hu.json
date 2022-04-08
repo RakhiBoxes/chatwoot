@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Letöltés",
-      "UPLOADING": "Frissítés..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Elküldés"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "Üzenet elküldése újból",
-      "ERROR_MESSAGE": "Nem sikerült az elküldés, kérjük próbáld később"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Online vagyunk",
-    "OFFLINE": "Jelenleg nem vagyunk elérhetőek"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Néhány percen belül válaszol",
-    "IN_A_FEW_HOURS": "Néhány órán belül válaszol",
-    "IN_A_DAY": "Általánban egy napon belül válaszol"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Beszélgetés megkezdése",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "Új beszélgetés megkezdése",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Új üzenetek",
-    "CLOSE_MESSAGES_BUTTON": "Bezárás",
-    "COMPANY_FROM": "innen",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Chatelj velünk"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Chatwoot",
-  "EMAIL_PLACEHOLDER": "Add meg az e-mailed",
-  "CHAT_PLACEHOLDER": "Gépeld be üzeneted",
-  "TODAY": "Ma",
-  "YESTERDAY": "Tegnap",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Teljes név",
-        "PLACEHOLDER": "Kérjük a teljes nevedet add meg",
-        "ERROR": "A teljes név megadása kötelező"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Email cím",
-        "PLACEHOLDER": "Kérjük helyes e-mailcímet adj meg",
-        "ERROR": "Helytelen e-mailcím"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Üzenet",
-        "PLACEHOLDER": "Írd be az üzeneted",
-        "ERROR": "Az üzenet túl rövid"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Kérjük a beszélgetés megkezdése előtt add meg neved és e-mail címed"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "A file mérete meghaladja a {MAXIMUM_FILE_UPLOAD_SIZE} limitet",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Érvénytelen mező"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Értékeld a beszélgetést",
-    "SUBMITTED_TITLE": "Köszönjük, hogy elküldted az értékelést",
-    "PLACEHOLDER": "Mondj nekünk többet..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Beszélgetés kivonat igénylése",
-    "SEND_EMAIL_SUCCESS": "A beszélgetés jegyzet sikeresen elküldve",
-    "SEND_EMAIL_ERROR": "Hiba történt, kérjük próbáld újra"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

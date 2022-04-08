@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "下載",
-      "UPLOADING": "上傳中"
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "送出"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "重新發送訊息",
-      "ERROR_MESSAGE": "無法傳送！請重新嘗試。"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "我們在線上",
-    "OFFLINE": "我們目前不在線上"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "通常在幾分鐘內回覆",
-    "IN_A_FEW_HOURS": "通常在幾小時內回覆",
-    "IN_A_DAY": "通常在一天內回覆"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "開始對話",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
-  "CONTINUE_CONVERSATION": "繼續對話",
-  "START_NEW_CONVERSATION": "開始一個新對話",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "查看新訊息",
-    "CLOSE_MESSAGES_BUTTON": "關閉",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
-    "BOT": "機器人"
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "與我們對話"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Powered by Chatwoot",
-  "EMAIL_PLACEHOLDER": "請輸入您的電子信箱",
-  "CHAT_PLACEHOLDER": "輸入你的訊息",
-  "TODAY": "今天",
-  "YESTERDAY": "昨天",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "聯絡人姓名",
-        "PLACEHOLDER": "請輸入您的完整姓名",
-        "ERROR": "姓名為必填"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "電子信箱地址",
-        "PLACEHOLDER": "請輸入你的 Email",
-        "ERROR": "無效的電子郵件"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "訊息",
-        "PLACEHOLDER": "請輸入你的訊息",
-        "ERROR": "訊息過短"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "在開始對話之前請提供您的名字及電郵"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "{MAXIMUM_FILE_UPLOAD_SIZE} 已超出檔案大小限制",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "無效的欄位"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "為此對話評分",
-    "SUBMITTED_TITLE": "感謝您提交的評分",
-    "PLACEHOLDER": "告訴我們更多..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "請求對話記錄",
-    "SEND_EMAIL_SUCCESS": "對話記錄已成功發送",
-    "SEND_EMAIL_ERROR": "出現錯誤，請重試"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

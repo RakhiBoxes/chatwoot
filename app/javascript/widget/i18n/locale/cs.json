@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Stáhnout",
-      "UPLOADING": "Nahrávání..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Odeslat"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,66 +13,66 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Jsme online",
-    "OFFLINE": "V současné době jsme pryč"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Většinou odpovíme během pár minut",
-    "IN_A_FEW_HOURS": "Většinou odpovíme během pár hodin",
-    "IN_A_DAY": "Obvykle odpoví za den"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Zahájit konverzaci",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "Zahájit novou konverzaci",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Zobrazit nové zprávy",
-    "CLOSE_MESSAGES_BUTTON": "Zavřít",
-    "COMPANY_FROM": "od",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Napiště nám"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Powered by Chatwoot",
-  "EMAIL_PLACEHOLDER": "Prosím, zadejte svůj e-mail",
-  "CHAT_PLACEHOLDER": "Zde začněte psát",
-  "TODAY": "Dnes",
-  "YESTERDAY": "Včera",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Celé jméno",
-        "PLACEHOLDER": "Zadejte své celé jméno",
-        "ERROR": "Je vyžadováno celé jméno"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "E-mailová adresa",
-        "PLACEHOLDER": "Zadejte prosím Váš e-mail",
-        "ERROR": "Neplatná e-mailová adresa"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Zpráva",
-        "PLACEHOLDER": "Zadejte prosím Vaši zprávu",
-        "ERROR": "Zpráva je příliš krátká"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
     "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Soubor překračuje limit {MAXIMUM_FILE_UPLOAD_SIZE} přílohy",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Neplatné pole"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Ohodnoťte svou konverzaci",
-    "SUBMITTED_TITLE": "Děkujeme Vám za odeslání hodnocení",
-    "PLACEHOLDER": "Řekněte nám více..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Požádat o přepis konverzace",
-    "SEND_EMAIL_SUCCESS": "Přepis chatu byl úspěšně odeslán",
-    "SEND_EMAIL_ERROR": "Došlo k chybě, zkuste to prosím znovu"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

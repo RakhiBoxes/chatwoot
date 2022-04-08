@@ -1,78 +1,78 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "دانلود",
-      "UPLOADING": "در حال آپلود..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "ثبت"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
-      "RETRY": "دوباره پیام بدید",
-      "ERROR_MESSAGE": "ارسال نشد، دوباره امتحان کنید"
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "ما آنلاین هستیم",
-    "OFFLINE": "در حال حاضر دردسترس نیستیم"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "معمولاً در عرض چند دقیقه پاسخ می دهند",
-    "IN_A_FEW_HOURS": "معمولاً در عرض چند ساعت پاسخ می دهند",
-    "IN_A_DAY": "به طور معمول در یک روز پاسخ می دهند"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "شروع گفتگو",
-  "END_CONVERSATION": "پایان گفتگو",
-  "CONTINUE_CONVERSATION": "ادامه گفتگو",
-  "START_NEW_CONVERSATION": "یک مکالمه جدید را شروع کنید",
+  "START_CONVERSATION": "Start Conversation",
+  "END_CONVERSATION": "End Conversation",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "مشاهده پیام‌های جدید",
-    "CLOSE_MESSAGES_BUTTON": "بستن",
-    "COMPANY_FROM": "از",
-    "BOT": "ربات"
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "با ما گفتگو کنید"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "قدرت گرفته از چت ووت",
-  "EMAIL_PLACEHOLDER": "لطفا ایمیل خود را وارد کنید",
-  "CHAT_PLACEHOLDER": "پیام خود را وارد کنید",
-  "TODAY": "امروز",
-  "YESTERDAY": "دیروز",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "نام کامل",
-        "PLACEHOLDER": "لطفا نام کامل خود را وارد کنید",
-        "ERROR": "نام کامل مورد نیاز است"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "ایمیل",
-        "PLACEHOLDER": "لطفا ایمیل خود را وارد کنید",
-        "ERROR": "آدرس ایمیل اشتباه است"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "پیام",
-        "PLACEHOLDER": "لطفا ایمیل خود را وارد کنید",
-        "ERROR": "پیام بسیار کوتاه است"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "لطفا قبل از شروع گفتگو نام و ایمیل خود را وارد کنید"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "فایل ضمیمه شده بیشتر از {MAXIMUM_FILE_UPLOAD_SIZE} است",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "فیلد نامتعارف"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "به مکالمه خود امتیاز دهید",
-    "SUBMITTED_TITLE": "با تشکر از شما برای ثبت رتبه",
-    "PLACEHOLDER": "توضیحات بیشتر بدهید..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "درخواست رونوشت مکالمه",
-    "SEND_EMAIL_SUCCESS": "رونوشت گفتگو با موفقیت ارسال شد",
-    "SEND_EMAIL_ERROR": "خطایی پیش آمد. لطفا دوباره امتحان کنید"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

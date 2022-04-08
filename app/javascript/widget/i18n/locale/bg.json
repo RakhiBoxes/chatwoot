@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Изтегляне",
-      "UPLOADING": "Качване..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Изпращане"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,66 +13,66 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "На линия сме",
-    "OFFLINE": "В момента не сме на линия"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Обикновено отговаряме до няколко минути",
-    "IN_A_FEW_HOURS": "Обикновено отговаряме до няколко часа",
-    "IN_A_DAY": "Обикновено отговаряме до един ден"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Започнете разговор",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "Започнете нов разговор",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Вижте новите съобщения",
-    "CLOSE_MESSAGES_BUTTON": "Затвори",
-    "COMPANY_FROM": "от",
-    "BOT": "Бот"
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Чатете с нас"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Осъществено от Chatwoot",
-  "EMAIL_PLACEHOLDER": "Моля, въведете имейла адреса си",
-  "CHAT_PLACEHOLDER": "Напишете вашето съобщение",
-  "TODAY": "Днес",
-  "YESTERDAY": "Вчера",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Пълно име",
-        "PLACEHOLDER": "Моля, въведете пълното си име",
-        "ERROR": "Пълното име е задължително"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Имейл адрес",
-        "PLACEHOLDER": "Моля, въведете имейл адреса си",
-        "ERROR": "Невалиден имейл адрес"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "Съобщение",
-        "PLACEHOLDER": "Моля, въведете вашето съобщение",
-        "ERROR": "Съобщението е прекалено кратко"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Преди да започенте разговора, моля, посочете вашето име и имейл адрес"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Файлът надхвърля {MAXIMUM_FILE_UPLOAD_SIZE} лимит",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Невалидно поле"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Оценете този разговор",
-    "SUBMITTED_TITLE": "Благодарим ви, че оценихте разговора",
-    "PLACEHOLDER": "Разкажете ни повече..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Поискайте копие от разговора",
-    "SEND_EMAIL_SUCCESS": "Копието от разговора бе изпратено успешно",
-    "SEND_EMAIL_ERROR": "Възникна грешка, моля опитайте отново"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Lataa",
-      "UPLOADING": "Lähetetään..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Lähetä"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,41 +13,41 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Olemme online-tilassa",
+    "ONLINE": "We are online",
     "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Vastaa tyypillisesti muutamassa minuutissa",
-    "IN_A_FEW_HOURS": "Tyypillisesti vastaa muutaman tunnin kuluessa",
-    "IN_A_DAY": "Vastaa tyypillisesti päivässä"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Aloita keskustelu",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
   "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Näytä uudet viestit",
-    "CLOSE_MESSAGES_BUTTON": "Sulje",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
-    "BOT": "Botti"
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Keskustele kanssamme"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Palvelun tarjoaa Chatwoot",
-  "EMAIL_PLACEHOLDER": "Ole hyvä ja syötä sähköpostiosoitteesi",
-  "CHAT_PLACEHOLDER": "Kirjoita viestisi",
-  "TODAY": "Tänään",
-  "YESTERDAY": "Eilen",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Koko nimi",
-        "PLACEHOLDER": "Syötä koko nimesi",
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
         "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Sähköpostiosoite",
+        "LABEL": "Email Address",
         "PLACEHOLDER": "Please enter your email address",
         "ERROR": "Invalid email address"
       },
@@ -72,7 +72,7 @@
   },
   "EMAIL_TRANSCRIPT": {
     "BUTTON_TEXT": "Request a conversation transcript",
-    "SEND_EMAIL_SUCCESS": "Chat-keskustelu on lähetetty onnistuneesti",
-    "SEND_EMAIL_ERROR": "Tapahtui virhe, yritä uudelleen"
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

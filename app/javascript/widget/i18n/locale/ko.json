@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "다운로드",
-      "UPLOADING": "업로드 중..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "보내기"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,53 +13,53 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "온라인",
-    "OFFLINE": "부재중"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "보통 몇 분 안에 응답",
-    "IN_A_FEW_HOURS": "보통 몇 시간 내에 응답",
-    "IN_A_DAY": "보통 하루 안에 응답"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "대화 시작",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
   "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "새 메시지 보기",
-    "CLOSE_MESSAGES_BUTTON": "닫기",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
-    "BOT": "봇"
+    "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "채팅하기"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Chatwoot 작동중",
-  "EMAIL_PLACEHOLDER": "이메일을 입력해주세요.",
-  "CHAT_PLACEHOLDER": "메시지 입력",
-  "TODAY": "오늘",
-  "YESTERDAY": "어제",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "전체 이름",
-        "PLACEHOLDER": "전체 이름을 입력하십시오.",
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
         "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "이메일 주소",
-        "PLACEHOLDER": "이메일을 입력해주세요.",
-        "ERROR": "잘못된 이메일 주소입니다."
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
-        "LABEL": "메시지",
-        "PLACEHOLDER": "메시지를 입력해 주세요.",
-        "ERROR": "너무 짧은 메시지"
+        "LABEL": "Message",
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
     "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "첨부파일이 최대 {MAXIMUM_FILE_UPLOAD_SIZE} 용량 제한을 넘어섭니다.",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
       "FIELD": "Invalid field"
@@ -72,7 +72,7 @@
   },
   "EMAIL_TRANSCRIPT": {
     "BUTTON_TEXT": "Request a conversation transcript",
-    "SEND_EMAIL_SUCCESS": "대화 내용이 성공적으로 전송됨",
-    "SEND_EMAIL_ERROR": "오류가 발생했습니다. 다시 시도하십시오."
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }

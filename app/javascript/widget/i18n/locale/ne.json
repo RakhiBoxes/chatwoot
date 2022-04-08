@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "डाउनलोड",
-      "UPLOADING": "अपलोड गर्दै..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "बुझाउनुहोस्"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,32 +13,32 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "हामी अनलाइन छौं",
+    "ONLINE": "We are online",
     "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "धेरै जसो केहि मिनेटमा जवाफ हुन्छ",
-    "IN_A_FEW_HOURS": "धेरै जसो केहि घण्टामा जवाफ हुन्छ",
-    "IN_A_DAY": "धेरै जसो एक दिनमा जवाफ हुन्छ"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "कुराकानी सुरु गर्नुहोस्",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
   "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "नयाँ सन्देशहरू हेर्नुहोस्",
-    "CLOSE_MESSAGES_BUTTON": "बन्दा गार्नुहोस्",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
     "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "हामीसँग कुराकानी गर्नुहोस्"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Chatwoot द्वारा संचालित",
-  "EMAIL_PLACEHOLDER": "कृपया तपाईंको ईमेल दिनुहोस्",
-  "CHAT_PLACEHOLDER": "तपाईंको सन्देश टाइप गर्नुहोस्",
-  "TODAY": "आज",
-  "YESTERDAY": "भोली",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {

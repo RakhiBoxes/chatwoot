@@ -1,11 +1,11 @@
 {
   "COMPONENTS": {
     "FILE_BUBBLE": {
-      "DOWNLOAD": "Télécharger",
-      "UPLOADING": "Téléversement..."
+      "DOWNLOAD": "Download",
+      "UPLOADING": "Uploading..."
     },
     "FORM_BUBBLE": {
-      "SUBMIT": "Envoyer"
+      "SUBMIT": "Submit"
     },
     "MESSAGE_BUBBLE": {
       "RETRY": "Send message again",
@@ -13,66 +13,66 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Nous sommes en ligne",
-    "OFFLINE": "Nous sommes absents pour le moment"
+    "ONLINE": "We are online",
+    "OFFLINE": "We are away at the moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Répond généralement en quelques minutes",
-    "IN_A_FEW_HOURS": "Répond généralement en quelques heures",
-    "IN_A_DAY": "Répond généralement dans la journée"
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
   },
-  "START_CONVERSATION": "Démarrer la conversation",
+  "START_CONVERSATION": "Start Conversation",
   "END_CONVERSATION": "End Conversation",
   "CONTINUE_CONVERSATION": "Continue conversation",
-  "START_NEW_CONVERSATION": "Démarrer une nouvelle conversation",
+  "START_NEW_CONVERSATION": "Start a new conversation",
   "UNREAD_VIEW": {
-    "VIEW_MESSAGES_BUTTON": "Voir les nouveaux messages",
-    "CLOSE_MESSAGES_BUTTON": "Fermer",
-    "COMPANY_FROM": "de",
+    "VIEW_MESSAGES_BUTTON": "See new messages",
+    "CLOSE_MESSAGES_BUTTON": "Close",
+    "COMPANY_FROM": "from",
     "BOT": "Bot"
   },
   "BUBBLE": {
-    "LABEL": "Discutez avec nous"
+    "LABEL": "Chat with us"
   },
-  "POWERED_BY": "Propulsé par Chatwoot",
-  "EMAIL_PLACEHOLDER": "Veuillez saisir votre adresse de courriel",
-  "CHAT_PLACEHOLDER": "Tapez votre message",
-  "TODAY": "Aujourd'hui",
-  "YESTERDAY": "Hier",
+  "POWERED_BY": "Powered by Rakhi Boxes",
+  "EMAIL_PLACEHOLDER": "Please enter your email",
+  "CHAT_PLACEHOLDER": "Type your message",
+  "TODAY": "Today",
+  "YESTERDAY": "Yesterday",
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Nom complet",
-        "PLACEHOLDER": "Veuillez entrer votre nom complet",
-        "ERROR": "Le nom complet est requis"
+        "LABEL": "Full Name",
+        "PLACEHOLDER": "Please enter your full name",
+        "ERROR": "Full Name is required"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Adresse de courriel",
-        "PLACEHOLDER": "Veuillez saisir votre adresse de courriel",
-        "ERROR": "Adresse e-mail invalide"
+        "LABEL": "Email Address",
+        "PLACEHOLDER": "Please enter your email address",
+        "ERROR": "Invalid email address"
       },
       "MESSAGE": {
         "LABEL": "Message",
-        "PLACEHOLDER": "Veuillez entrer votre message",
-        "ERROR": "Message trop court"
+        "PLACEHOLDER": "Please enter your message",
+        "ERROR": "Message too short"
       }
     },
-    "CAMPAIGN_HEADER": "Veuillez fournir votre nom et votre email avant de commencer la conversation"
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
   },
-  "FILE_SIZE_LIMIT": "Le fichier dépasse la limite de {MAXIMUM_FILE_UPLOAD_SIZE} pour les pièces jointes",
+  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Champ non valide"
+      "FIELD": "Invalid field"
     }
   },
   "CSAT": {
-    "TITLE": "Évaluer votre conversation",
-    "SUBMITTED_TITLE": "Merci d'avoir soumis votre évaluation",
-    "PLACEHOLDER": "Dites-nous en plus..."
+    "TITLE": "Rate your conversation",
+    "SUBMITTED_TITLE": "Thank you for submitting the rating",
+    "PLACEHOLDER": "Tell us more..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Demander une transcription de la conversation",
-    "SEND_EMAIL_SUCCESS": "La transcription du chat a été envoyée avec succès",
-    "SEND_EMAIL_ERROR": "Une erreur est survenue, veuillez réessayer"
+    "BUTTON_TEXT": "Request a conversation transcript",
+    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "SEND_EMAIL_ERROR": "There was an error, please try again"
   }
 }
