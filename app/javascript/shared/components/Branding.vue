@@ -43,8 +43,7 @@ export default {
     brandRedirectURL() {
       try {
         const referrerHost = this.$store.getters['appConfig/getReferrerHost'];
-        const baseURL = `${this.globalConfig.widgetBrandURL}?utm_source=${
-          referrerHost ? 'widget_branding' : 'survey_branding'
+        const baseURL = `https://rakhiboxes.com'
         }`;
         if (referrerHost) {
           return `${baseURL}&utm_referrer=${referrerHost}`;
