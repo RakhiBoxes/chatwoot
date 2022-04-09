@@ -70,7 +70,7 @@ export default {
 .branding--link {
   color: $color-light-gray;
   cursor: pointer;
-  display: inline-flex;
+  display: none;
   filter: grayscale(1);
   font-size: $font-size-small;
   opacity: 0.9;
